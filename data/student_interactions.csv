@@ -1,0 +1,1282 @@
+student_id,topic,quiz_score,attempts,time_spent_minutes,last_asked_intent
+1,Linear Regression,68.66,1,15,Doubt clarification
+1,Linear Regression,77.02,1,20,Doubt clarification
+1,Backpropagation,56.24,1,39,Revision
+1,Neural Networks,57.51,3,9,Revision
+1,Optimization Algorithms,84.52,1,50,Revision
+1,RNNs,64.24,1,32,Doubt clarification
+1,Backpropagation,53.98,4,5,Example
+1,Linear Regression,49.06,4,56,Explanation
+1,CNNs,60.78,1,10,Revision
+1,CNNs,58.97,1,24,Revision
+1,Gradient Descent,46.26,3,32,Example
+2,Neural Networks,68.32,1,8,Example
+2,Linear Regression,81.85,1,31,Revision
+2,Backpropagation,75.41,1,20,Example
+2,Gradient Descent,57.31,4,11,Example
+2,CNNs,94.46,1,39,Example
+2,Gradient Descent,100.0,1,43,Revision
+2,Optimization Algorithms,50.59,4,45,Example
+2,Gradient Descent,82.89,1,42,Explanation
+2,Optimization Algorithms,57.86,2,13,Doubt clarification
+2,Gradient Descent,65.86,1,49,Example
+2,Optimization Algorithms,79.85,1,42,Explanation
+2,Backpropagation,66.88,1,5,Explanation
+2,Linear Regression,55.95,4,36,Example
+2,Neural Networks,69.87,1,14,Example
+2,CNNs,90.33,1,14,Explanation
+2,Gradient Descent,78.82,1,32,Doubt clarification
+3,Linear Regression,65.67,1,10,Explanation
+3,Optimization Algorithms,53.61,3,40,Explanation
+3,Optimization Algorithms,67.56,1,32,Explanation
+3,RNNs,63.03,1,42,Explanation
+3,Neural Networks,79.68,1,44,Example
+3,CNNs,65.01,1,59,Explanation
+3,CNNs,71.91,1,20,Explanation
+3,Optimization Algorithms,35.51,1,42,Explanation
+3,CNNs,76.14,1,16,Example
+3,Gradient Descent,76.48,1,45,Revision
+3,Backpropagation,71.83,1,26,Revision
+4,Optimization Algorithms,65.76,1,29,Example
+4,Optimization Algorithms,67.4,1,19,Explanation
+4,Backpropagation,60.98,1,13,Revision
+4,Backpropagation,60.62,1,6,Example
+4,Backpropagation,85.23,1,53,Explanation
+4,Gradient Descent,55.33,1,16,Example
+4,Linear Regression,80.93,1,37,Doubt clarification
+4,Optimization Algorithms,60.45,1,23,Doubt clarification
+4,Backpropagation,66.63,1,55,Revision
+4,RNNs,78.26,1,7,Doubt clarification
+5,RNNs,76.8,1,5,Explanation
+5,Neural Networks,81.53,1,21,Doubt clarification
+5,Linear Regression,62.45,1,29,Revision
+5,Linear Regression,55.06,3,27,Example
+5,CNNs,63.0,1,5,Revision
+5,CNNs,84.03,1,35,Revision
+5,CNNs,79.33,1,24,Example
+5,Linear Regression,70.28,1,56,Doubt clarification
+5,Neural Networks,56.6,4,34,Doubt clarification
+5,Backpropagation,42.39,1,37,Explanation
+5,Linear Regression,96.62,1,23,Doubt clarification
+5,RNNs,74.15,1,59,Explanation
+6,CNNs,43.23,4,54,Doubt clarification
+6,Gradient Descent,56.1,4,34,Revision
+6,CNNs,57.92,4,24,Explanation
+6,Gradient Descent,83.46,1,12,Revision
+6,Linear Regression,69.84,1,49,Explanation
+6,CNNs,90.52,1,45,Explanation
+6,CNNs,68.2,1,38,Example
+6,CNNs,67.52,1,36,Example
+6,Linear Regression,55.98,3,25,Doubt clarification
+6,CNNs,58.51,4,48,Doubt clarification
+6,CNNs,49.91,4,12,Explanation
+7,Linear Regression,62.57,1,59,Explanation
+7,Neural Networks,71.33,1,14,Explanation
+7,CNNs,86.28,1,42,Explanation
+7,Gradient Descent,56.04,3,8,Explanation
+7,Linear Regression,64.78,1,23,Example
+7,Optimization Algorithms,87.05,1,47,Doubt clarification
+7,Linear Regression,75.28,1,22,Example
+7,Neural Networks,100.0,1,31,Example
+7,Backpropagation,72.08,1,53,Revision
+7,RNNs,57.82,2,37,Explanation
+7,RNNs,72.77,1,33,Explanation
+7,Backpropagation,79.39,1,53,Doubt clarification
+7,CNNs,66.46,1,52,Example
+7,Linear Regression,80.49,1,42,Example
+7,CNNs,39.45,1,9,Doubt clarification
+7,CNNs,75.3,1,30,Revision
+7,Neural Networks,59.95,3,55,Doubt clarification
+7,Backpropagation,52.55,3,29,Revision
+8,Neural Networks,81.33,1,31,Example
+8,Backpropagation,57.67,2,52,Doubt clarification
+8,Optimization Algorithms,68.07,1,12,Revision
+8,CNNs,79.58,1,6,Doubt clarification
+8,Linear Regression,67.68,1,53,Example
+9,Gradient Descent,91.07,1,53,Revision
+9,Linear Regression,76.57,1,26,Explanation
+9,CNNs,100.0,1,7,Doubt clarification
+9,RNNs,84.63,1,58,Explanation
+9,Neural Networks,52.95,3,24,Example
+9,Linear Regression,100.0,1,7,Explanation
+9,Linear Regression,69.63,1,9,Explanation
+9,Optimization Algorithms,72.85,1,50,Explanation
+9,CNNs,45.65,4,14,Doubt clarification
+9,RNNs,82.84,1,54,Revision
+9,Gradient Descent,62.15,1,24,Example
+9,Neural Networks,54.48,4,40,Revision
+9,Gradient Descent,53.08,2,34,Doubt clarification
+9,Neural Networks,66.44,1,51,Revision
+9,Linear Regression,54.66,1,14,Explanation
+9,Optimization Algorithms,66.21,1,49,Example
+9,Neural Networks,65.55,1,41,Example
+9,CNNs,46.88,1,36,Doubt clarification
+10,Optimization Algorithms,78.46,1,54,Revision
+10,Neural Networks,52.02,3,17,Example
+10,Gradient Descent,56.08,1,44,Doubt clarification
+10,CNNs,86.29,1,32,Revision
+10,CNNs,62.65,1,16,Revision
+10,Linear Regression,70.5,1,46,Explanation
+11,Linear Regression,71.08,1,54,Example
+11,Backpropagation,76.27,1,53,Doubt clarification
+11,Backpropagation,73.19,1,10,Explanation
+11,Linear Regression,88.66,1,34,Revision
+11,Neural Networks,85.08,1,35,Explanation
+11,CNNs,79.82,1,54,Example
+11,Neural Networks,77.15,1,22,Doubt clarification
+11,RNNs,72.12,1,20,Revision
+11,Neural Networks,70.7,1,31,Revision
+12,RNNs,64.33,1,16,Doubt clarification
+12,Gradient Descent,69.91,1,24,Revision
+12,Optimization Algorithms,55.5,3,58,Doubt clarification
+12,Gradient Descent,50.3,3,36,Revision
+12,Backpropagation,69.34,1,54,Revision
+12,RNNs,75.5,1,49,Example
+12,CNNs,59.9,3,8,Revision
+12,Neural Networks,87.7,1,30,Explanation
+12,Gradient Descent,66.95,1,20,Explanation
+12,RNNs,84.61,1,8,Revision
+12,RNNs,87.1,1,10,Explanation
+12,CNNs,70.31,1,24,Doubt clarification
+12,CNNs,61.18,1,43,Explanation
+12,Gradient Descent,68.89,1,27,Explanation
+12,Backpropagation,75.59,1,40,Revision
+12,Linear Regression,64.16,1,5,Explanation
+13,CNNs,56.31,4,49,Doubt clarification
+13,Linear Regression,70.71,1,60,Example
+13,CNNs,66.62,1,59,Revision
+13,CNNs,79.74,1,12,Example
+13,Linear Regression,73.65,1,12,Explanation
+13,Gradient Descent,54.93,3,38,Example
+13,Linear Regression,59.43,4,19,Explanation
+13,Optimization Algorithms,55.35,4,37,Revision
+13,CNNs,71.25,1,35,Doubt clarification
+13,Linear Regression,63.1,1,31,Doubt clarification
+13,Gradient Descent,69.97,1,40,Explanation
+13,Optimization Algorithms,69.71,1,60,Example
+14,Backpropagation,89.86,1,47,Example
+14,Backpropagation,63.59,1,22,Explanation
+14,Optimization Algorithms,74.56,1,35,Revision
+14,Neural Networks,79.22,1,45,Revision
+14,Backpropagation,77.49,1,55,Explanation
+14,Gradient Descent,91.23,1,28,Explanation
+14,Neural Networks,76.51,1,45,Revision
+14,RNNs,89.28,1,48,Doubt clarification
+15,CNNs,64.07,1,25,Doubt clarification
+15,RNNs,77.53,1,22,Example
+15,Linear Regression,72.76,1,53,Explanation
+15,CNNs,95.82,1,44,Example
+15,CNNs,64.89,1,17,Explanation
+15,Linear Regression,88.88,1,7,Doubt clarification
+15,Neural Networks,74.54,1,51,Revision
+15,Gradient Descent,64.78,1,24,Example
+15,Backpropagation,65.5,1,10,Explanation
+15,Optimization Algorithms,74.3,1,37,Revision
+15,Gradient Descent,43.9,3,30,Example
+15,Optimization Algorithms,54.52,1,47,Example
+15,RNNs,66.94,1,22,Explanation
+15,RNNs,43.0,3,58,Explanation
+15,CNNs,48.14,2,17,Revision
+15,Linear Regression,79.02,1,19,Revision
+15,Neural Networks,81.81,1,50,Revision
+16,Gradient Descent,66.18,1,34,Revision
+16,Optimization Algorithms,83.01,1,35,Example
+16,Optimization Algorithms,78.97,1,34,Explanation
+16,Linear Regression,58.58,2,21,Explanation
+16,Backpropagation,54.04,3,12,Revision
+16,Optimization Algorithms,51.66,4,53,Example
+16,Optimization Algorithms,53.59,4,28,Explanation
+16,Neural Networks,97.58,1,22,Example
+16,RNNs,90.07,1,13,Explanation
+16,Backpropagation,55.09,2,12,Explanation
+16,RNNs,87.6,1,44,Explanation
+17,Gradient Descent,80.89,1,43,Explanation
+17,Linear Regression,48.98,1,39,Example
+17,Linear Regression,95.04,1,56,Explanation
+17,Gradient Descent,80.67,1,45,Doubt clarification
+17,Linear Regression,83.61,1,39,Doubt clarification
+17,RNNs,73.35,1,37,Doubt clarification
+17,Neural Networks,81.5,1,57,Revision
+17,RNNs,71.22,1,38,Explanation
+18,Optimization Algorithms,81.1,1,24,Example
+18,RNNs,62.79,1,42,Doubt clarification
+18,CNNs,73.38,1,5,Revision
+18,Backpropagation,67.21,1,58,Revision
+18,Gradient Descent,77.05,1,35,Revision
+18,Linear Regression,76.03,1,40,Explanation
+18,RNNs,88.63,1,22,Example
+18,Optimization Algorithms,50.64,1,40,Example
+19,Neural Networks,57.54,1,58,Example
+19,Linear Regression,71.36,1,16,Doubt clarification
+19,Backpropagation,59.59,3,46,Explanation
+19,Optimization Algorithms,53.36,4,22,Example
+19,Backpropagation,79.82,1,47,Example
+19,CNNs,70.77,1,40,Doubt clarification
+19,Backpropagation,63.4,1,5,Revision
+19,Gradient Descent,74.06,1,60,Doubt clarification
+19,CNNs,79.99,1,11,Doubt clarification
+19,Neural Networks,71.02,1,9,Example
+19,Gradient Descent,76.43,1,22,Example
+20,RNNs,64.61,1,49,Example
+20,Optimization Algorithms,73.33,1,19,Explanation
+20,CNNs,72.12,1,43,Revision
+20,RNNs,84.42,1,35,Doubt clarification
+20,Optimization Algorithms,71.23,1,58,Revision
+20,Gradient Descent,61.78,1,49,Explanation
+20,Linear Regression,72.33,1,52,Revision
+20,CNNs,72.31,1,40,Doubt clarification
+20,CNNs,74.92,1,44,Doubt clarification
+20,RNNs,60.29,1,16,Explanation
+20,Optimization Algorithms,78.81,1,5,Example
+20,RNNs,77.23,1,23,Example
+20,RNNs,64.7,1,16,Revision
+20,Optimization Algorithms,67.32,1,33,Explanation
+21,Gradient Descent,44.74,1,47,Explanation
+21,Gradient Descent,75.34,1,56,Example
+21,RNNs,60.07,1,26,Doubt clarification
+21,Backpropagation,29.0,4,18,Example
+21,CNNs,76.69,1,44,Doubt clarification
+21,Neural Networks,69.08,1,33,Revision
+21,Backpropagation,75.16,1,40,Doubt clarification
+22,Linear Regression,63.87,1,23,Revision
+22,Gradient Descent,75.85,1,48,Revision
+22,CNNs,83.47,1,14,Doubt clarification
+22,Neural Networks,89.24,1,18,Example
+22,Backpropagation,51.55,1,47,Revision
+22,Optimization Algorithms,70.04,1,16,Explanation
+22,RNNs,74.2,1,47,Explanation
+22,Backpropagation,91.64,1,39,Explanation
+22,Gradient Descent,100.0,1,24,Explanation
+22,Optimization Algorithms,74.14,1,51,Revision
+22,Backpropagation,71.13,1,8,Explanation
+22,Gradient Descent,82.54,1,22,Doubt clarification
+22,RNNs,89.04,1,52,Doubt clarification
+22,Neural Networks,76.68,1,58,Doubt clarification
+23,Gradient Descent,80.92,1,58,Doubt clarification
+23,RNNs,57.09,2,55,Revision
+23,Optimization Algorithms,59.72,4,53,Revision
+23,Neural Networks,71.66,1,27,Doubt clarification
+23,RNNs,58.43,3,48,Revision
+23,Linear Regression,58.77,1,33,Example
+23,Neural Networks,81.44,1,46,Doubt clarification
+23,Optimization Algorithms,59.07,3,17,Explanation
+23,CNNs,55.01,2,42,Revision
+23,CNNs,47.97,2,11,Example
+23,Backpropagation,67.81,1,36,Explanation
+24,Backpropagation,99.33,1,45,Explanation
+24,Gradient Descent,57.24,1,31,Explanation
+24,Gradient Descent,91.13,1,44,Doubt clarification
+24,Neural Networks,66.38,1,53,Revision
+24,Neural Networks,70.38,1,45,Doubt clarification
+24,Neural Networks,59.23,2,7,Explanation
+24,Optimization Algorithms,53.61,4,50,Revision
+24,RNNs,56.07,3,5,Example
+25,Gradient Descent,79.05,1,22,Example
+25,Linear Regression,67.79,1,17,Example
+25,Gradient Descent,65.24,1,26,Revision
+25,Neural Networks,45.38,1,26,Doubt clarification
+25,Neural Networks,84.49,1,31,Doubt clarification
+25,Optimization Algorithms,57.43,1,18,Example
+25,Neural Networks,67.64,1,57,Explanation
+25,RNNs,81.54,1,45,Example
+25,RNNs,65.6,1,57,Explanation
+25,CNNs,66.62,1,18,Explanation
+25,Gradient Descent,69.25,1,22,Example
+25,Linear Regression,79.73,1,55,Doubt clarification
+25,Gradient Descent,68.53,1,9,Example
+25,Backpropagation,61.91,1,26,Explanation
+25,Optimization Algorithms,68.42,1,34,Explanation
+25,Backpropagation,69.26,1,40,Doubt clarification
+25,RNNs,77.87,1,54,Revision
+25,Gradient Descent,69.98,1,35,Example
+25,RNNs,64.62,1,14,Explanation
+25,Optimization Algorithms,71.69,1,55,Doubt clarification
+26,Backpropagation,63.93,1,5,Doubt clarification
+26,CNNs,67.21,1,54,Revision
+26,Optimization Algorithms,71.36,1,19,Example
+26,Linear Regression,39.24,1,55,Explanation
+26,Neural Networks,48.76,4,26,Example
+26,Optimization Algorithms,82.34,1,46,Explanation
+26,Gradient Descent,65.28,1,13,Example
+26,CNNs,72.77,1,30,Revision
+26,Linear Regression,63.01,1,14,Example
+26,RNNs,65.62,1,19,Example
+27,CNNs,100.0,1,41,Explanation
+27,Backpropagation,58.36,2,9,Revision
+27,Linear Regression,48.6,4,14,Explanation
+27,Linear Regression,59.05,1,17,Explanation
+27,Optimization Algorithms,60.48,1,14,Revision
+27,CNNs,74.5,1,24,Doubt clarification
+27,Backpropagation,78.95,1,38,Revision
+28,Neural Networks,59.97,4,46,Example
+28,Linear Regression,65.47,1,37,Doubt clarification
+28,Optimization Algorithms,78.01,1,56,Doubt clarification
+28,CNNs,79.52,1,60,Example
+28,Optimization Algorithms,93.73,1,37,Explanation
+28,Neural Networks,63.63,1,32,Example
+28,Backpropagation,79.57,1,22,Revision
+28,RNNs,67.22,1,30,Explanation
+28,Neural Networks,71.83,1,18,Explanation
+28,Backpropagation,46.79,1,5,Doubt clarification
+29,CNNs,75.83,1,7,Example
+29,Optimization Algorithms,42.03,2,27,Doubt clarification
+29,Optimization Algorithms,84.25,1,29,Revision
+29,Gradient Descent,63.06,1,39,Example
+29,Gradient Descent,58.49,3,60,Revision
+29,RNNs,71.31,1,13,Example
+30,CNNs,65.3,1,23,Explanation
+30,Neural Networks,75.18,1,37,Explanation
+30,Backpropagation,52.57,2,28,Explanation
+30,Linear Regression,86.06,1,6,Doubt clarification
+30,Backpropagation,34.54,4,44,Explanation
+30,Gradient Descent,81.42,1,10,Explanation
+30,CNNs,85.15,1,43,Doubt clarification
+30,CNNs,68.91,1,18,Revision
+30,Backpropagation,77.82,1,13,Example
+30,Linear Regression,70.25,1,5,Doubt clarification
+30,Backpropagation,93.45,1,42,Example
+31,RNNs,72.36,1,22,Doubt clarification
+31,Optimization Algorithms,58.49,4,37,Revision
+31,Neural Networks,70.36,1,9,Example
+31,Gradient Descent,61.72,1,35,Example
+31,Gradient Descent,68.63,1,58,Doubt clarification
+31,Backpropagation,66.2,1,22,Explanation
+31,RNNs,62.56,1,7,Revision
+31,Linear Regression,85.66,1,42,Doubt clarification
+31,Neural Networks,67.14,1,45,Revision
+31,CNNs,62.83,1,24,Explanation
+31,RNNs,43.3,2,7,Example
+32,Backpropagation,54.25,2,40,Doubt clarification
+32,Neural Networks,53.84,2,60,Revision
+32,Linear Regression,81.69,1,40,Example
+32,Backpropagation,65.92,1,16,Explanation
+32,Backpropagation,69.93,1,55,Revision
+32,RNNs,68.04,1,55,Doubt clarification
+32,Backpropagation,90.43,1,22,Explanation
+32,Gradient Descent,43.65,3,55,Revision
+32,Neural Networks,55.87,4,57,Revision
+32,Linear Regression,88.33,1,52,Example
+33,Neural Networks,70.47,1,24,Revision
+33,Linear Regression,76.44,1,6,Explanation
+33,Gradient Descent,83.15,1,37,Revision
+33,Backpropagation,89.82,1,12,Explanation
+33,CNNs,57.46,2,30,Doubt clarification
+33,CNNs,100.0,1,52,Doubt clarification
+33,Backpropagation,71.85,1,12,Revision
+33,CNNs,73.53,1,41,Doubt clarification
+33,Gradient Descent,57.87,4,25,Doubt clarification
+33,Linear Regression,63.97,1,18,Doubt clarification
+34,RNNs,55.36,4,39,Revision
+34,Backpropagation,87.02,1,38,Revision
+34,RNNs,66.83,1,34,Doubt clarification
+34,Neural Networks,60.86,1,7,Example
+34,Backpropagation,77.71,1,26,Example
+34,CNNs,64.97,1,8,Explanation
+34,Neural Networks,98.29,1,53,Doubt clarification
+34,CNNs,68.78,1,9,Doubt clarification
+34,Neural Networks,64.89,1,6,Example
+34,CNNs,83.98,1,8,Example
+34,Gradient Descent,76.19,1,9,Example
+34,Backpropagation,98.47,1,32,Explanation
+34,Backpropagation,100.0,1,55,Revision
+34,Gradient Descent,81.06,1,44,Revision
+34,Backpropagation,93.15,1,59,Revision
+34,Backpropagation,65.41,1,8,Doubt clarification
+34,Linear Regression,83.85,1,60,Example
+34,Neural Networks,64.95,1,41,Example
+34,Gradient Descent,69.82,1,39,Explanation
+34,Gradient Descent,85.1,1,51,Revision
+35,Optimization Algorithms,69.91,1,45,Explanation
+35,Gradient Descent,74.74,1,44,Doubt clarification
+35,Optimization Algorithms,80.13,1,21,Explanation
+35,Gradient Descent,56.83,1,15,Doubt clarification
+35,Gradient Descent,76.64,1,13,Doubt clarification
+35,CNNs,93.28,1,15,Example
+35,Backpropagation,71.25,1,44,Revision
+35,RNNs,61.57,1,6,Revision
+35,Gradient Descent,77.22,1,42,Doubt clarification
+35,Backpropagation,56.88,4,60,Explanation
+36,CNNs,100.0,1,20,Revision
+36,Backpropagation,60.58,1,29,Revision
+36,Gradient Descent,57.84,2,19,Explanation
+36,Optimization Algorithms,84.41,1,9,Doubt clarification
+36,Neural Networks,73.09,1,13,Doubt clarification
+37,Optimization Algorithms,86.95,1,9,Doubt clarification
+37,Optimization Algorithms,55.58,4,12,Revision
+37,RNNs,79.3,1,6,Explanation
+37,Optimization Algorithms,70.71,1,13,Explanation
+37,Backpropagation,80.91,1,30,Explanation
+37,Gradient Descent,64.28,1,20,Doubt clarification
+37,Backpropagation,72.25,1,25,Explanation
+37,RNNs,59.92,1,13,Revision
+37,CNNs,92.12,1,60,Revision
+37,RNNs,65.33,1,59,Doubt clarification
+38,Backpropagation,56.71,2,48,Example
+38,Optimization Algorithms,75.94,1,55,Explanation
+38,CNNs,80.48,1,53,Explanation
+38,Neural Networks,40.02,4,42,Explanation
+38,Backpropagation,78.83,1,42,Revision
+38,RNNs,77.07,1,28,Explanation
+38,Gradient Descent,56.81,1,16,Doubt clarification
+38,RNNs,65.46,1,40,Revision
+38,Neural Networks,80.47,1,26,Doubt clarification
+38,Linear Regression,48.63,2,58,Revision
+38,RNNs,95.27,1,46,Example
+39,Linear Regression,85.96,1,6,Revision
+39,CNNs,61.5,1,22,Doubt clarification
+39,CNNs,59.82,4,48,Revision
+39,Neural Networks,53.7,4,21,Explanation
+39,CNNs,100.0,1,9,Example
+39,CNNs,96.71,1,55,Example
+39,Backpropagation,66.83,1,38,Explanation
+39,Gradient Descent,82.45,1,49,Revision
+39,RNNs,75.05,1,15,Revision
+39,RNNs,80.76,1,10,Revision
+39,CNNs,97.58,1,41,Explanation
+39,RNNs,69.55,1,24,Example
+39,Optimization Algorithms,62.48,1,11,Example
+39,Neural Networks,91.97,1,27,Example
+39,Backpropagation,73.97,1,59,Revision
+39,Backpropagation,93.44,1,8,Doubt clarification
+40,Linear Regression,54.31,3,57,Revision
+40,RNNs,52.65,1,14,Explanation
+40,RNNs,66.95,1,53,Revision
+40,CNNs,65.32,1,41,Revision
+40,RNNs,80.45,1,40,Example
+40,Neural Networks,85.62,1,32,Explanation
+40,RNNs,80.42,1,51,Explanation
+40,Backpropagation,91.42,1,29,Example
+40,Optimization Algorithms,61.42,1,59,Doubt clarification
+40,Linear Regression,67.24,1,53,Revision
+40,RNNs,63.59,1,15,Explanation
+40,Optimization Algorithms,77.32,1,25,Explanation
+40,CNNs,70.59,1,7,Explanation
+40,Optimization Algorithms,100.0,1,50,Doubt clarification
+41,RNNs,68.57,1,59,Doubt clarification
+41,Neural Networks,88.16,1,10,Doubt clarification
+41,Linear Regression,49.8,4,52,Revision
+41,CNNs,60.14,1,31,Revision
+41,CNNs,73.01,1,19,Explanation
+41,Linear Regression,53.75,2,11,Revision
+41,Gradient Descent,42.83,4,27,Explanation
+41,Linear Regression,71.32,1,13,Revision
+41,CNNs,62.19,1,59,Explanation
+42,Backpropagation,100.0,1,55,Example
+42,RNNs,48.14,3,6,Example
+42,Linear Regression,75.89,1,40,Example
+42,Backpropagation,95.4,1,15,Explanation
+42,CNNs,64.35,1,25,Revision
+42,Linear Regression,82.41,1,52,Doubt clarification
+42,Neural Networks,52.61,4,46,Doubt clarification
+42,Linear Regression,73.16,1,29,Example
+42,Linear Regression,79.76,1,39,Explanation
+43,RNNs,81.22,1,53,Revision
+43,RNNs,57.02,3,37,Example
+43,Neural Networks,68.35,1,18,Example
+43,Backpropagation,77.25,1,30,Explanation
+43,Gradient Descent,98.99,1,55,Example
+43,CNNs,70.29,1,40,Explanation
+43,Linear Regression,93.93,1,16,Example
+43,Linear Regression,55.19,1,14,Example
+43,Linear Regression,42.71,3,25,Revision
+43,Neural Networks,51.56,2,25,Revision
+44,Backpropagation,76.99,1,34,Example
+44,Gradient Descent,79.14,1,27,Revision
+44,Linear Regression,64.6,1,48,Explanation
+44,Backpropagation,53.28,4,31,Example
+44,Gradient Descent,56.84,3,37,Doubt clarification
+44,CNNs,72.02,1,11,Doubt clarification
+44,Neural Networks,75.98,1,5,Explanation
+44,Gradient Descent,57.23,4,29,Revision
+44,Neural Networks,91.17,1,25,Example
+44,RNNs,89.72,1,49,Revision
+44,Gradient Descent,80.82,1,11,Explanation
+44,CNNs,74.35,1,13,Revision
+44,Gradient Descent,74.99,1,42,Example
+44,RNNs,94.16,1,24,Example
+44,Optimization Algorithms,49.06,2,30,Example
+44,Optimization Algorithms,58.9,3,22,Doubt clarification
+44,Backpropagation,99.39,1,10,Doubt clarification
+44,CNNs,63.77,1,37,Doubt clarification
+45,Linear Regression,92.43,1,25,Explanation
+45,Linear Regression,56.1,3,45,Example
+45,Optimization Algorithms,59.9,3,22,Revision
+45,Backpropagation,76.31,1,38,Revision
+45,CNNs,75.69,1,30,Explanation
+46,RNNs,56.75,1,16,Doubt clarification
+46,Backpropagation,64.16,1,10,Example
+46,Linear Regression,92.3,1,49,Revision
+46,Optimization Algorithms,57.74,1,6,Example
+46,Optimization Algorithms,50.18,4,26,Example
+46,Neural Networks,47.66,4,57,Explanation
+46,Gradient Descent,69.12,1,14,Doubt clarification
+46,Backpropagation,54.92,4,16,Revision
+46,Neural Networks,77.65,1,21,Revision
+46,Optimization Algorithms,58.92,3,37,Doubt clarification
+46,CNNs,64.46,1,52,Example
+46,Neural Networks,62.22,1,32,Example
+46,Optimization Algorithms,57.76,4,50,Revision
+46,Neural Networks,100.0,1,53,Doubt clarification
+46,Linear Regression,71.72,1,50,Explanation
+46,Neural Networks,60.03,1,43,Example
+46,Gradient Descent,71.9,1,48,Revision
+46,Neural Networks,82.63,1,18,Doubt clarification
+46,RNNs,72.93,1,38,Explanation
+47,Optimization Algorithms,82.21,1,34,Doubt clarification
+47,Optimization Algorithms,96.15,1,26,Example
+47,Linear Regression,74.4,1,26,Example
+47,CNNs,91.39,1,41,Example
+47,Gradient Descent,77.72,1,29,Doubt clarification
+47,Optimization Algorithms,70.1,1,12,Explanation
+47,RNNs,85.77,1,14,Doubt clarification
+47,Linear Regression,85.16,1,38,Revision
+47,Backpropagation,77.64,1,56,Revision
+47,Backpropagation,74.6,1,21,Doubt clarification
+47,CNNs,50.36,4,17,Example
+47,CNNs,100.0,1,52,Doubt clarification
+47,CNNs,68.93,1,5,Revision
+47,Neural Networks,73.81,1,51,Revision
+47,Gradient Descent,95.19,1,29,Explanation
+47,CNNs,66.51,1,28,Revision
+47,Linear Regression,95.34,1,8,Revision
+47,Linear Regression,68.67,1,29,Explanation
+47,CNNs,51.83,1,19,Doubt clarification
+48,Neural Networks,68.92,1,12,Revision
+48,Backpropagation,60.26,1,30,Example
+48,Linear Regression,85.44,1,60,Explanation
+48,RNNs,72.99,1,14,Revision
+48,Linear Regression,68.66,1,51,Explanation
+48,RNNs,81.0,1,54,Example
+48,CNNs,80.14,1,44,Doubt clarification
+48,CNNs,65.14,1,55,Example
+48,Optimization Algorithms,60.4,1,42,Revision
+48,CNNs,50.88,2,54,Doubt clarification
+48,Backpropagation,70.73,1,31,Example
+48,RNNs,72.13,1,11,Doubt clarification
+48,Neural Networks,72.01,1,14,Doubt clarification
+48,Linear Regression,55.46,3,28,Doubt clarification
+49,Gradient Descent,82.81,1,16,Doubt clarification
+49,RNNs,64.01,1,7,Explanation
+49,CNNs,44.21,4,49,Explanation
+49,RNNs,89.97,1,39,Example
+49,Gradient Descent,89.65,1,39,Revision
+49,Backpropagation,61.12,1,37,Revision
+49,RNNs,70.78,1,34,Doubt clarification
+49,Optimization Algorithms,64.02,1,51,Revision
+49,RNNs,74.35,1,16,Example
+49,Linear Regression,74.69,1,13,Revision
+49,Backpropagation,57.8,1,60,Revision
+49,Neural Networks,50.9,4,32,Revision
+49,Linear Regression,83.57,1,40,Revision
+49,Linear Regression,47.01,3,7,Explanation
+49,Linear Regression,75.5,1,7,Doubt clarification
+49,Backpropagation,66.49,1,6,Revision
+49,Neural Networks,73.3,1,46,Revision
+49,Backpropagation,57.57,4,9,Explanation
+50,Neural Networks,73.83,1,57,Example
+50,Backpropagation,72.78,1,52,Example
+50,CNNs,69.35,1,49,Explanation
+50,Neural Networks,78.79,1,26,Doubt clarification
+50,RNNs,71.54,1,32,Doubt clarification
+50,Linear Regression,59.63,4,32,Explanation
+50,Neural Networks,69.75,1,19,Revision
+50,CNNs,73.87,1,37,Doubt clarification
+50,Backpropagation,92.7,1,47,Example
+50,Optimization Algorithms,86.14,1,16,Revision
+50,RNNs,53.44,1,5,Doubt clarification
+50,Linear Regression,82.63,1,22,Example
+50,Linear Regression,65.56,1,28,Example
+50,Gradient Descent,67.13,1,6,Explanation
+51,Gradient Descent,87.05,1,37,Example
+51,RNNs,86.88,1,28,Example
+51,Gradient Descent,87.78,1,47,Revision
+51,Gradient Descent,62.79,1,9,Explanation
+51,CNNs,47.31,2,40,Doubt clarification
+51,Linear Regression,78.9,1,41,Explanation
+52,Neural Networks,57.94,1,12,Example
+52,Linear Regression,55.56,4,26,Example
+52,Gradient Descent,64.0,1,19,Revision
+52,Gradient Descent,75.18,1,49,Explanation
+52,Linear Regression,62.61,1,6,Explanation
+52,Backpropagation,67.87,1,5,Explanation
+52,Gradient Descent,59.55,3,16,Explanation
+52,Optimization Algorithms,95.59,1,7,Doubt clarification
+52,Neural Networks,40.62,4,59,Doubt clarification
+52,Gradient Descent,100.0,1,20,Revision
+52,Neural Networks,77.5,1,24,Explanation
+52,Backpropagation,54.11,3,28,Doubt clarification
+52,RNNs,92.8,1,30,Explanation
+52,Gradient Descent,39.59,3,20,Explanation
+52,Neural Networks,71.55,1,54,Revision
+53,Neural Networks,70.3,1,27,Explanation
+53,RNNs,86.55,1,51,Example
+53,RNNs,76.75,1,24,Doubt clarification
+53,Optimization Algorithms,43.6,2,39,Revision
+53,Gradient Descent,92.6,1,38,Revision
+53,Neural Networks,83.91,1,18,Revision
+53,Neural Networks,68.93,1,47,Example
+53,Neural Networks,53.08,4,39,Doubt clarification
+53,Gradient Descent,57.86,3,10,Explanation
+53,Neural Networks,69.77,1,57,Example
+53,RNNs,60.9,1,46,Explanation
+53,CNNs,55.18,2,50,Explanation
+53,RNNs,67.13,1,24,Example
+53,Backpropagation,61.29,1,24,Doubt clarification
+53,CNNs,63.99,1,28,Example
+53,Gradient Descent,41.81,2,27,Revision
+53,CNNs,73.29,1,8,Doubt clarification
+53,Optimization Algorithms,78.02,1,36,Example
+54,Gradient Descent,79.13,1,36,Revision
+54,Neural Networks,82.42,1,21,Explanation
+54,Neural Networks,73.95,1,25,Revision
+54,RNNs,62.59,1,10,Explanation
+54,Gradient Descent,87.31,1,22,Explanation
+54,Gradient Descent,76.32,1,53,Example
+54,Neural Networks,63.68,1,44,Doubt clarification
+54,RNNs,62.71,1,41,Explanation
+54,RNNs,48.22,1,44,Explanation
+54,Neural Networks,80.93,1,51,Doubt clarification
+54,Neural Networks,100.0,1,36,Example
+54,Backpropagation,81.96,1,43,Revision
+55,RNNs,67.93,1,16,Example
+55,CNNs,75.28,1,41,Explanation
+55,Optimization Algorithms,59.62,1,38,Doubt clarification
+55,Neural Networks,67.68,1,11,Revision
+55,Backpropagation,67.29,1,51,Doubt clarification
+55,CNNs,47.53,1,49,Explanation
+55,RNNs,88.7,1,39,Example
+55,CNNs,83.45,1,22,Revision
+55,Linear Regression,87.03,1,39,Doubt clarification
+56,CNNs,75.89,1,19,Explanation
+56,Backpropagation,85.6,1,36,Revision
+56,Gradient Descent,60.27,1,25,Doubt clarification
+56,CNNs,60.49,1,48,Example
+56,Backpropagation,97.39,1,32,Example
+56,Neural Networks,66.0,1,6,Explanation
+56,Backpropagation,60.51,1,55,Explanation
+56,Linear Regression,100.0,1,50,Explanation
+56,CNNs,87.09,1,39,Doubt clarification
+56,RNNs,71.75,1,29,Revision
+56,Linear Regression,54.87,3,42,Revision
+56,RNNs,64.55,1,30,Revision
+57,Neural Networks,53.21,2,12,Example
+57,Gradient Descent,63.46,1,37,Explanation
+57,Optimization Algorithms,81.83,1,51,Revision
+57,Optimization Algorithms,51.13,4,56,Doubt clarification
+57,Optimization Algorithms,69.53,1,18,Example
+57,CNNs,57.3,1,58,Revision
+57,Optimization Algorithms,88.63,1,16,Revision
+57,Backpropagation,72.28,1,44,Example
+57,Backpropagation,70.32,1,40,Example
+57,CNNs,82.96,1,42,Example
+57,Neural Networks,81.55,1,15,Doubt clarification
+57,RNNs,55.63,1,17,Explanation
+57,Linear Regression,65.72,1,33,Explanation
+57,Optimization Algorithms,39.14,4,47,Explanation
+57,Backpropagation,77.66,1,43,Doubt clarification
+57,Backpropagation,84.01,1,57,Doubt clarification
+57,Neural Networks,93.02,1,55,Example
+58,Optimization Algorithms,61.43,1,33,Revision
+58,Backpropagation,68.52,1,17,Explanation
+58,Linear Regression,74.63,1,51,Example
+58,Backpropagation,73.58,1,46,Doubt clarification
+58,RNNs,72.28,1,26,Doubt clarification
+58,CNNs,77.15,1,45,Revision
+58,Optimization Algorithms,57.15,1,42,Example
+58,Optimization Algorithms,77.55,1,44,Explanation
+58,Gradient Descent,65.95,1,53,Revision
+58,Backpropagation,80.24,1,41,Explanation
+58,Optimization Algorithms,64.33,1,12,Example
+58,Neural Networks,62.38,1,41,Revision
+58,Gradient Descent,68.96,1,32,Explanation
+59,CNNs,65.59,1,17,Explanation
+59,Backpropagation,55.36,2,43,Example
+59,Linear Regression,71.78,1,5,Doubt clarification
+59,Gradient Descent,79.84,1,32,Revision
+59,CNNs,64.09,1,40,Explanation
+59,Neural Networks,57.26,1,46,Revision
+60,Backpropagation,75.84,1,34,Doubt clarification
+60,Neural Networks,84.53,1,25,Example
+60,Gradient Descent,57.72,3,33,Explanation
+60,CNNs,93.6,1,8,Doubt clarification
+60,Linear Regression,96.98,1,19,Example
+60,Neural Networks,79.87,1,33,Revision
+61,RNNs,58.4,1,24,Revision
+61,CNNs,78.91,1,41,Example
+61,Linear Regression,69.53,1,51,Revision
+61,Optimization Algorithms,70.14,1,31,Doubt clarification
+61,Optimization Algorithms,100.0,1,37,Example
+61,Gradient Descent,79.73,1,55,Example
+61,Neural Networks,41.24,4,50,Example
+61,Linear Regression,91.72,1,26,Example
+61,Linear Regression,73.34,1,47,Example
+61,Gradient Descent,80.81,1,26,Doubt clarification
+61,RNNs,75.21,1,39,Explanation
+62,Linear Regression,68.45,1,21,Revision
+62,RNNs,78.9,1,45,Explanation
+62,Backpropagation,68.06,1,41,Example
+62,Optimization Algorithms,55.2,3,47,Example
+62,CNNs,52.76,1,13,Doubt clarification
+62,CNNs,85.36,1,28,Revision
+62,Gradient Descent,74.3,1,11,Explanation
+62,RNNs,47.49,2,44,Explanation
+62,Gradient Descent,86.18,1,33,Revision
+62,Optimization Algorithms,74.18,1,45,Doubt clarification
+62,Backpropagation,53.29,4,31,Doubt clarification
+62,CNNs,74.66,1,6,Doubt clarification
+62,CNNs,91.93,1,21,Explanation
+62,RNNs,71.89,1,53,Doubt clarification
+62,Gradient Descent,75.48,1,15,Revision
+62,Linear Regression,73.09,1,45,Explanation
+62,Neural Networks,72.09,1,21,Explanation
+63,Neural Networks,66.35,1,15,Revision
+63,RNNs,71.05,1,7,Example
+63,Linear Regression,97.81,1,57,Explanation
+63,Optimization Algorithms,64.18,1,33,Example
+63,Linear Regression,94.75,1,18,Revision
+63,CNNs,48.09,2,42,Doubt clarification
+63,Backpropagation,70.57,1,35,Example
+63,Gradient Descent,54.73,1,14,Example
+63,Backpropagation,30.1,4,50,Example
+63,Neural Networks,62.77,1,43,Doubt clarification
+63,Gradient Descent,96.36,1,40,Explanation
+63,Neural Networks,61.51,1,18,Doubt clarification
+63,CNNs,91.82,1,53,Doubt clarification
+63,RNNs,64.33,1,14,Revision
+63,CNNs,43.66,2,21,Example
+63,Linear Regression,84.95,1,60,Doubt clarification
+64,Gradient Descent,79.12,1,50,Example
+64,RNNs,81.1,1,22,Explanation
+64,CNNs,85.96,1,11,Example
+64,Neural Networks,84.86,1,50,Example
+64,Neural Networks,68.19,1,49,Explanation
+64,RNNs,64.98,1,9,Revision
+64,Optimization Algorithms,58.41,4,33,Example
+64,Linear Regression,77.88,1,42,Explanation
+64,Backpropagation,67.49,1,5,Revision
+64,Neural Networks,73.3,1,56,Revision
+64,Linear Regression,68.81,1,5,Example
+64,Optimization Algorithms,69.55,1,26,Explanation
+64,Gradient Descent,72.22,1,11,Example
+64,CNNs,69.69,1,17,Doubt clarification
+64,Neural Networks,98.85,1,18,Doubt clarification
+64,Gradient Descent,71.03,1,24,Example
+64,RNNs,53.76,1,33,Example
+64,Optimization Algorithms,53.15,3,45,Doubt clarification
+64,Neural Networks,55.59,3,25,Example
+64,Linear Regression,87.1,1,45,Revision
+65,Neural Networks,56.98,1,23,Doubt clarification
+65,Optimization Algorithms,76.69,1,44,Example
+65,Linear Regression,68.85,1,52,Doubt clarification
+65,Linear Regression,78.15,1,21,Example
+65,RNNs,52.34,4,51,Explanation
+65,RNNs,86.11,1,8,Revision
+65,Optimization Algorithms,64.8,1,30,Explanation
+65,CNNs,61.73,1,36,Doubt clarification
+65,Neural Networks,100.0,1,12,Example
+65,CNNs,54.86,4,43,Doubt clarification
+65,Neural Networks,57.86,4,42,Revision
+65,Backpropagation,45.68,1,10,Explanation
+65,Backpropagation,70.1,1,49,Explanation
+65,Backpropagation,92.68,1,60,Explanation
+65,Neural Networks,34.42,2,37,Revision
+65,Linear Regression,61.56,1,10,Doubt clarification
+66,Linear Regression,56.54,3,8,Example
+66,Optimization Algorithms,91.43,1,16,Explanation
+66,Optimization Algorithms,73.32,1,6,Example
+66,Linear Regression,82.82,1,19,Revision
+66,Linear Regression,47.88,3,52,Doubt clarification
+66,Backpropagation,67.51,1,27,Explanation
+66,Neural Networks,66.25,1,55,Example
+66,Neural Networks,100.0,1,30,Explanation
+66,Gradient Descent,90.82,1,18,Example
+66,Backpropagation,97.96,1,39,Explanation
+66,Gradient Descent,67.55,1,60,Doubt clarification
+66,Gradient Descent,65.08,1,45,Revision
+66,RNNs,64.79,1,17,Revision
+66,Backpropagation,80.43,1,50,Revision
+66,Gradient Descent,93.87,1,19,Revision
+66,Linear Regression,45.0,3,30,Doubt clarification
+66,RNNs,87.24,1,26,Example
+66,Backpropagation,69.87,1,22,Revision
+66,RNNs,86.14,1,57,Example
+67,Neural Networks,74.22,1,49,Example
+67,Linear Regression,61.83,1,7,Example
+67,CNNs,93.24,1,59,Explanation
+67,Gradient Descent,69.52,1,53,Explanation
+67,Gradient Descent,59.28,2,6,Doubt clarification
+67,Neural Networks,58.53,1,47,Explanation
+67,Gradient Descent,71.49,1,55,Doubt clarification
+67,Backpropagation,78.04,1,34,Doubt clarification
+68,CNNs,59.81,1,56,Example
+68,RNNs,85.4,1,54,Explanation
+68,Optimization Algorithms,47.95,2,35,Explanation
+68,CNNs,68.36,1,41,Explanation
+68,Backpropagation,75.78,1,45,Example
+68,RNNs,45.12,3,18,Explanation
+68,CNNs,75.03,1,33,Revision
+68,Linear Regression,77.04,1,24,Example
+68,Neural Networks,88.43,1,10,Revision
+68,RNNs,61.64,1,47,Example
+68,Linear Regression,63.88,1,26,Revision
+68,CNNs,66.44,1,9,Doubt clarification
+68,Gradient Descent,53.55,1,36,Doubt clarification
+68,Neural Networks,89.51,1,16,Revision
+68,RNNs,80.1,1,15,Revision
+68,Backpropagation,57.63,1,49,Explanation
+68,CNNs,57.52,3,41,Example
+69,Gradient Descent,90.08,1,53,Example
+69,Linear Regression,48.39,4,10,Revision
+69,Neural Networks,70.17,1,29,Example
+69,CNNs,78.54,1,14,Explanation
+69,Backpropagation,80.95,1,51,Revision
+69,Backpropagation,78.74,1,24,Doubt clarification
+69,Gradient Descent,54.26,3,36,Revision
+69,Linear Regression,60.22,1,24,Revision
+69,RNNs,78.02,1,32,Explanation
+69,Neural Networks,98.24,1,56,Revision
+69,Gradient Descent,79.89,1,44,Revision
+69,RNNs,79.8,1,10,Doubt clarification
+69,RNNs,74.02,1,19,Example
+69,RNNs,60.74,1,15,Example
+69,Optimization Algorithms,42.75,3,28,Doubt clarification
+69,Optimization Algorithms,50.51,3,45,Doubt clarification
+69,Linear Regression,66.0,1,6,Doubt clarification
+69,Gradient Descent,64.89,1,39,Doubt clarification
+69,Neural Networks,69.7,1,29,Doubt clarification
+69,Neural Networks,84.87,1,54,Example
+70,Linear Regression,87.23,1,18,Explanation
+70,RNNs,74.94,1,44,Explanation
+70,RNNs,100.0,1,20,Explanation
+70,RNNs,49.79,3,38,Doubt clarification
+70,Backpropagation,63.96,1,43,Example
+70,Optimization Algorithms,54.36,2,56,Explanation
+70,Optimization Algorithms,96.39,1,7,Example
+70,RNNs,88.24,1,27,Revision
+70,Neural Networks,52.24,3,36,Example
+70,CNNs,75.9,1,41,Revision
+70,CNNs,95.12,1,28,Example
+70,Backpropagation,64.42,1,57,Doubt clarification
+70,Backpropagation,62.47,1,15,Explanation
+70,Optimization Algorithms,66.86,1,27,Example
+70,RNNs,68.61,1,21,Doubt clarification
+70,Neural Networks,57.98,1,50,Revision
+70,RNNs,59.54,2,10,Revision
+71,Neural Networks,58.06,4,46,Doubt clarification
+71,Gradient Descent,51.08,4,49,Explanation
+71,Linear Regression,67.03,1,22,Doubt clarification
+71,RNNs,61.03,1,40,Doubt clarification
+71,Neural Networks,57.66,2,40,Explanation
+71,Neural Networks,74.32,1,43,Example
+71,Optimization Algorithms,86.75,1,56,Example
+71,Gradient Descent,46.6,4,34,Doubt clarification
+71,Backpropagation,50.48,4,59,Revision
+71,Linear Regression,76.1,1,11,Example
+71,Optimization Algorithms,66.03,1,9,Example
+71,Linear Regression,84.04,1,48,Revision
+71,Neural Networks,81.37,1,57,Example
+72,Linear Regression,52.52,2,40,Doubt clarification
+72,RNNs,70.68,1,23,Revision
+72,Backpropagation,53.56,4,18,Explanation
+72,Neural Networks,62.5,1,58,Revision
+72,Optimization Algorithms,100.0,1,8,Example
+72,Linear Regression,67.8,1,5,Example
+72,CNNs,44.77,3,51,Explanation
+72,Backpropagation,71.1,1,41,Explanation
+72,RNNs,76.07,1,8,Revision
+72,Linear Regression,55.14,4,5,Revision
+72,RNNs,92.34,1,41,Explanation
+73,Backpropagation,49.45,2,23,Doubt clarification
+73,Gradient Descent,78.46,1,19,Explanation
+73,RNNs,78.4,1,60,Example
+73,Optimization Algorithms,72.94,1,25,Revision
+73,Linear Regression,79.67,1,51,Example
+73,CNNs,75.05,1,9,Example
+73,Optimization Algorithms,61.15,1,25,Explanation
+73,RNNs,53.41,3,27,Revision
+73,Optimization Algorithms,75.21,1,26,Revision
+73,CNNs,73.14,1,35,Explanation
+73,Neural Networks,51.83,1,50,Example
+73,Optimization Algorithms,77.78,1,9,Explanation
+73,Optimization Algorithms,83.6,1,50,Explanation
+73,Gradient Descent,99.21,1,49,Example
+73,Gradient Descent,67.93,1,13,Example
+73,CNNs,71.74,1,42,Explanation
+74,Optimization Algorithms,82.38,1,7,Revision
+74,Linear Regression,100.0,1,50,Example
+74,Gradient Descent,41.85,4,7,Example
+74,Optimization Algorithms,66.7,1,29,Explanation
+74,Optimization Algorithms,53.28,3,43,Doubt clarification
+74,CNNs,82.7,1,23,Revision
+74,Gradient Descent,71.02,1,49,Example
+74,CNNs,73.58,1,54,Example
+74,Optimization Algorithms,68.95,1,17,Example
+74,RNNs,69.79,1,19,Revision
+74,Gradient Descent,76.19,1,56,Explanation
+74,Linear Regression,64.1,1,15,Doubt clarification
+74,Linear Regression,78.06,1,54,Doubt clarification
+74,Backpropagation,93.32,1,37,Explanation
+74,Optimization Algorithms,69.94,1,42,Revision
+74,Backpropagation,83.35,1,49,Revision
+74,Backpropagation,85.61,1,38,Explanation
+75,Optimization Algorithms,96.63,1,38,Doubt clarification
+75,CNNs,79.6,1,52,Revision
+75,Backpropagation,62.59,1,36,Doubt clarification
+75,Neural Networks,53.33,2,36,Explanation
+75,Gradient Descent,73.87,1,54,Doubt clarification
+76,Optimization Algorithms,93.75,1,55,Example
+76,Linear Regression,65.36,1,40,Doubt clarification
+76,Gradient Descent,68.05,1,36,Revision
+76,Neural Networks,74.9,1,18,Explanation
+76,CNNs,65.21,1,27,Doubt clarification
+76,CNNs,68.68,1,23,Doubt clarification
+76,CNNs,82.87,1,32,Example
+77,Optimization Algorithms,66.29,1,45,Doubt clarification
+77,Backpropagation,55.44,3,7,Explanation
+77,CNNs,72.34,1,55,Doubt clarification
+77,CNNs,33.36,2,12,Explanation
+77,Gradient Descent,61.09,1,48,Revision
+77,Gradient Descent,93.55,1,28,Example
+77,Gradient Descent,92.48,1,15,Doubt clarification
+77,CNNs,82.5,1,57,Explanation
+77,Optimization Algorithms,85.04,1,28,Example
+77,Gradient Descent,79.22,1,55,Example
+77,Neural Networks,80.56,1,23,Revision
+77,Backpropagation,64.56,1,49,Doubt clarification
+77,Backpropagation,63.3,1,35,Doubt clarification
+77,Optimization Algorithms,100.0,1,43,Example
+77,Gradient Descent,69.1,1,28,Revision
+77,CNNs,64.95,1,20,Example
+77,RNNs,84.88,1,47,Explanation
+77,RNNs,57.69,3,43,Doubt clarification
+77,Optimization Algorithms,80.83,1,5,Example
+78,RNNs,47.19,3,55,Explanation
+78,CNNs,68.01,1,21,Explanation
+78,CNNs,62.3,1,39,Revision
+78,Neural Networks,54.92,2,33,Explanation
+78,CNNs,73.52,1,59,Revision
+78,CNNs,94.81,1,34,Revision
+78,CNNs,62.82,1,24,Doubt clarification
+78,CNNs,62.59,1,56,Doubt clarification
+78,Optimization Algorithms,66.0,1,33,Explanation
+79,Linear Regression,52.33,2,51,Explanation
+79,CNNs,53.02,2,35,Doubt clarification
+79,Linear Regression,74.93,1,60,Explanation
+79,CNNs,91.09,1,45,Example
+79,Backpropagation,61.55,1,54,Explanation
+79,Optimization Algorithms,63.68,1,44,Example
+79,Neural Networks,95.4,1,16,Doubt clarification
+79,RNNs,57.14,4,6,Example
+79,RNNs,79.91,1,47,Revision
+79,Optimization Algorithms,100.0,1,42,Doubt clarification
+79,Linear Regression,70.99,1,59,Explanation
+79,Backpropagation,94.69,1,18,Doubt clarification
+79,CNNs,69.24,1,29,Example
+79,Gradient Descent,90.41,1,36,Revision
+79,Backpropagation,75.76,1,25,Doubt clarification
+79,Neural Networks,79.58,1,45,Revision
+79,Gradient Descent,63.42,1,36,Example
+80,Backpropagation,71.12,1,5,Revision
+80,Gradient Descent,48.49,3,21,Example
+80,RNNs,45.29,2,41,Explanation
+80,Backpropagation,66.63,1,37,Explanation
+80,Backpropagation,70.07,1,18,Explanation
+80,Linear Regression,68.21,1,27,Revision
+80,Neural Networks,74.38,1,12,Example
+80,CNNs,77.97,1,44,Doubt clarification
+81,Neural Networks,69.36,1,36,Example
+81,Neural Networks,72.53,1,46,Doubt clarification
+81,Optimization Algorithms,82.68,1,30,Doubt clarification
+81,RNNs,100.0,1,17,Doubt clarification
+81,CNNs,84.08,1,40,Explanation
+81,Backpropagation,70.94,1,16,Example
+81,Optimization Algorithms,45.79,4,21,Doubt clarification
+81,RNNs,59.79,4,48,Revision
+81,Gradient Descent,53.34,2,49,Doubt clarification
+81,RNNs,69.39,1,37,Doubt clarification
+81,CNNs,79.04,1,54,Explanation
+81,Gradient Descent,77.14,1,55,Explanation
+82,Linear Regression,91.11,1,46,Example
+82,Gradient Descent,72.84,1,26,Example
+82,Gradient Descent,57.21,4,14,Explanation
+82,RNNs,85.63,1,11,Explanation
+82,Optimization Algorithms,96.02,1,46,Revision
+82,Gradient Descent,77.63,1,50,Example
+82,RNNs,63.41,1,55,Revision
+82,RNNs,54.28,3,20,Example
+82,Linear Regression,81.99,1,60,Explanation
+82,Linear Regression,80.85,1,39,Explanation
+82,RNNs,56.1,2,18,Doubt clarification
+82,Backpropagation,52.27,2,32,Revision
+82,Linear Regression,53.0,4,14,Doubt clarification
+82,CNNs,58.59,2,24,Explanation
+83,Linear Regression,57.79,2,20,Example
+83,Backpropagation,83.8,1,36,Revision
+83,Linear Regression,81.68,1,57,Explanation
+83,Gradient Descent,81.38,1,59,Doubt clarification
+83,Gradient Descent,82.39,1,12,Explanation
+83,CNNs,60.42,1,34,Doubt clarification
+83,Linear Regression,78.13,1,19,Explanation
+83,Linear Regression,85.14,1,19,Explanation
+83,RNNs,47.89,2,51,Example
+83,CNNs,69.03,1,14,Explanation
+83,Gradient Descent,82.48,1,6,Revision
+83,Optimization Algorithms,64.07,1,10,Revision
+83,Neural Networks,47.92,4,6,Doubt clarification
+83,Backpropagation,63.82,1,43,Doubt clarification
+83,RNNs,79.89,1,25,Explanation
+83,CNNs,81.3,1,56,Revision
+83,Neural Networks,92.35,1,48,Example
+83,CNNs,51.45,2,50,Explanation
+84,Neural Networks,71.25,1,60,Explanation
+84,Linear Regression,83.73,1,27,Explanation
+84,Gradient Descent,70.42,1,52,Explanation
+84,RNNs,65.97,1,39,Revision
+84,Gradient Descent,70.14,1,22,Doubt clarification
+84,CNNs,62.57,1,37,Example
+84,Optimization Algorithms,56.35,3,34,Revision
+84,Optimization Algorithms,81.63,1,13,Example
+84,Backpropagation,78.93,1,17,Example
+84,Backpropagation,78.45,1,13,Revision
+84,Neural Networks,66.77,1,29,Example
+84,Backpropagation,92.47,1,50,Doubt clarification
+84,CNNs,56.39,4,32,Example
+84,Optimization Algorithms,61.22,1,33,Revision
+84,RNNs,59.22,3,58,Example
+84,CNNs,52.57,2,27,Example
+85,Gradient Descent,48.45,2,50,Doubt clarification
+85,CNNs,72.84,1,36,Example
+85,Neural Networks,82.66,1,21,Example
+85,CNNs,58.19,2,41,Example
+85,Backpropagation,46.25,2,58,Explanation
+85,Neural Networks,75.8,1,42,Example
+85,CNNs,82.73,1,10,Doubt clarification
+85,Optimization Algorithms,82.44,1,6,Revision
+85,Neural Networks,59.48,4,14,Explanation
+85,CNNs,68.3,1,57,Doubt clarification
+85,Gradient Descent,67.28,1,12,Explanation
+85,Linear Regression,78.31,1,35,Explanation
+85,Neural Networks,50.74,2,50,Doubt clarification
+85,CNNs,55.28,1,56,Example
+85,CNNs,100.0,1,56,Doubt clarification
+85,CNNs,47.89,3,54,Doubt clarification
+85,Linear Regression,69.56,1,51,Explanation
+85,Linear Regression,81.08,1,43,Explanation
+85,RNNs,53.44,3,44,Doubt clarification
+85,Backpropagation,63.38,1,28,Example
+86,Optimization Algorithms,79.17,1,53,Revision
+86,Backpropagation,62.5,1,47,Doubt clarification
+86,Linear Regression,62.73,1,41,Revision
+86,CNNs,86.58,1,19,Explanation
+86,Backpropagation,60.62,1,23,Revision
+86,Neural Networks,68.31,1,11,Revision
+86,RNNs,61.2,1,12,Example
+86,Optimization Algorithms,29.59,4,29,Example
+86,Linear Regression,48.05,2,37,Doubt clarification
+86,RNNs,65.2,1,27,Doubt clarification
+86,RNNs,86.95,1,39,Example
+86,Optimization Algorithms,90.43,1,40,Explanation
+86,Gradient Descent,83.38,1,58,Doubt clarification
+86,Backpropagation,61.79,1,42,Doubt clarification
+87,Backpropagation,46.96,1,17,Revision
+87,RNNs,58.32,1,25,Example
+87,Optimization Algorithms,99.28,1,60,Example
+87,Optimization Algorithms,53.79,3,29,Example
+87,Neural Networks,81.85,1,52,Example
+87,RNNs,82.62,1,14,Example
+87,Gradient Descent,54.63,4,7,Doubt clarification
+87,Neural Networks,67.81,1,8,Explanation
+87,Gradient Descent,62.64,1,8,Doubt clarification
+87,Backpropagation,71.19,1,22,Example
+87,RNNs,65.91,1,43,Example
+87,Neural Networks,54.15,3,20,Explanation
+87,Backpropagation,66.77,1,49,Revision
+87,Optimization Algorithms,64.56,1,28,Doubt clarification
+87,RNNs,56.0,1,33,Doubt clarification
+87,CNNs,63.62,1,12,Doubt clarification
+87,Linear Regression,65.72,1,23,Example
+88,Linear Regression,83.68,1,25,Explanation
+88,Neural Networks,73.74,1,9,Doubt clarification
+88,RNNs,66.96,1,56,Example
+88,Gradient Descent,81.78,1,18,Explanation
+88,Backpropagation,86.66,1,38,Doubt clarification
+88,Gradient Descent,69.06,1,47,Revision
+88,Gradient Descent,73.74,1,48,Example
+88,CNNs,59.94,1,42,Explanation
+88,Linear Regression,89.13,1,44,Doubt clarification
+88,Optimization Algorithms,58.69,1,13,Doubt clarification
+88,Linear Regression,65.32,1,25,Doubt clarification
+88,Gradient Descent,60.99,1,40,Example
+88,CNNs,63.18,1,28,Doubt clarification
+88,Neural Networks,50.95,1,34,Explanation
+88,Optimization Algorithms,78.35,1,21,Explanation
+88,CNNs,81.97,1,43,Example
+88,Gradient Descent,70.12,1,15,Example
+88,Backpropagation,62.23,1,10,Revision
+88,Gradient Descent,86.07,1,49,Example
+89,Gradient Descent,87.62,1,35,Example
+89,CNNs,76.32,1,36,Explanation
+89,Gradient Descent,61.35,1,18,Revision
+89,Gradient Descent,74.38,1,18,Explanation
+89,Backpropagation,36.63,3,60,Example
+89,RNNs,75.62,1,33,Doubt clarification
+89,Optimization Algorithms,69.63,1,28,Doubt clarification
+89,Backpropagation,81.16,1,17,Revision
+89,Gradient Descent,73.3,1,11,Example
+89,RNNs,55.78,1,22,Example
+89,CNNs,72.8,1,46,Explanation
+89,RNNs,33.62,2,34,Revision
+89,Optimization Algorithms,77.01,1,53,Revision
+89,Optimization Algorithms,80.19,1,27,Doubt clarification
+89,Gradient Descent,80.05,1,29,Example
+90,Neural Networks,47.34,4,32,Revision
+90,Neural Networks,77.44,1,53,Example
+90,Neural Networks,55.03,4,8,Explanation
+90,Neural Networks,81.25,1,59,Example
+90,RNNs,52.6,3,37,Doubt clarification
+90,Neural Networks,77.63,1,26,Explanation
+90,Linear Regression,72.16,1,44,Explanation
+90,CNNs,62.77,1,6,Revision
+90,RNNs,64.52,1,45,Doubt clarification
+90,Gradient Descent,61.58,1,7,Explanation
+90,Optimization Algorithms,50.35,3,15,Explanation
+90,RNNs,81.09,1,45,Doubt clarification
+90,Linear Regression,73.08,1,12,Doubt clarification
+90,Linear Regression,87.58,1,49,Revision
+90,CNNs,67.33,1,48,Explanation
+90,Optimization Algorithms,82.3,1,42,Explanation
+90,Optimization Algorithms,58.18,2,36,Revision
+90,Gradient Descent,76.6,1,37,Revision
+91,Neural Networks,79.13,1,32,Explanation
+91,Gradient Descent,78.96,1,40,Doubt clarification
+91,CNNs,81.32,1,54,Doubt clarification
+91,Linear Regression,52.33,3,41,Revision
+91,CNNs,62.33,1,48,Example
+91,Neural Networks,98.58,1,9,Explanation
+91,Optimization Algorithms,66.32,1,24,Explanation
+91,Backpropagation,80.56,1,27,Explanation
+91,Neural Networks,99.48,1,19,Doubt clarification
+92,Linear Regression,58.33,4,20,Revision
+92,RNNs,85.96,1,56,Doubt clarification
+92,Gradient Descent,100.0,1,29,Example
+92,CNNs,49.99,1,40,Revision
+92,Optimization Algorithms,59.74,2,20,Revision
+92,Neural Networks,53.44,3,32,Doubt clarification
+92,Linear Regression,40.62,1,29,Revision
+92,Linear Regression,79.12,1,17,Revision
+92,Backpropagation,57.61,2,46,Doubt clarification
+92,Optimization Algorithms,68.92,1,29,Example
+93,Gradient Descent,69.25,1,13,Explanation
+93,CNNs,62.73,1,17,Explanation
+93,Linear Regression,69.14,1,49,Doubt clarification
+93,Linear Regression,79.06,1,18,Revision
+93,RNNs,81.01,1,6,Revision
+93,Gradient Descent,80.32,1,47,Revision
+93,Optimization Algorithms,74.71,1,21,Doubt clarification
+93,Neural Networks,62.81,1,11,Example
+93,RNNs,73.61,1,57,Example
+93,Optimization Algorithms,47.24,1,46,Explanation
+93,Backpropagation,78.17,1,43,Explanation
+93,Backpropagation,63.8,1,22,Doubt clarification
+93,Optimization Algorithms,63.11,1,53,Example
+93,RNNs,64.97,1,21,Explanation
+93,Optimization Algorithms,51.52,1,15,Example
+94,CNNs,74.22,1,29,Revision
+94,Gradient Descent,51.36,2,10,Revision
+94,Backpropagation,53.81,1,53,Example
+94,CNNs,37.38,3,11,Revision
+94,Neural Networks,72.35,1,7,Doubt clarification
+94,Gradient Descent,81.79,1,34,Revision
+94,CNNs,87.09,1,37,Explanation
+94,Gradient Descent,73.0,1,56,Explanation
+94,Optimization Algorithms,83.07,1,46,Revision
+94,Optimization Algorithms,88.27,1,25,Doubt clarification
+94,Neural Networks,61.02,1,48,Revision
+94,Linear Regression,63.87,1,33,Explanation
+94,Backpropagation,49.38,2,35,Example
+94,RNNs,78.04,1,16,Explanation
+94,RNNs,83.32,1,26,Explanation
+94,RNNs,81.91,1,32,Doubt clarification
+94,Backpropagation,64.03,1,9,Doubt clarification
+94,CNNs,61.15,1,15,Example
+95,CNNs,69.1,1,9,Doubt clarification
+95,CNNs,100.0,1,33,Example
+95,Gradient Descent,45.09,4,11,Doubt clarification
+95,Neural Networks,60.21,1,30,Explanation
+95,Neural Networks,69.22,1,33,Explanation
+95,RNNs,79.12,1,53,Explanation
+95,CNNs,86.78,1,28,Revision
+96,Backpropagation,17.0,1,49,Revision
+96,Gradient Descent,65.67,1,39,Explanation
+96,Linear Regression,94.85,1,33,Example
+96,RNNs,77.16,1,40,Revision
+96,RNNs,85.4,1,58,Explanation
+96,Linear Regression,61.8,1,49,Revision
+96,Backpropagation,75.02,1,48,Revision
+96,Linear Regression,49.07,3,39,Example
+96,Linear Regression,81.03,1,28,Example
+96,RNNs,78.38,1,52,Revision
+96,Optimization Algorithms,65.11,1,53,Example
+96,Optimization Algorithms,67.84,1,23,Explanation
+96,Gradient Descent,71.36,1,19,Doubt clarification
+96,Linear Regression,60.68,1,19,Example
+96,Neural Networks,50.35,4,50,Revision
+96,Gradient Descent,72.29,1,7,Doubt clarification
+96,CNNs,90.47,1,37,Doubt clarification
+96,Neural Networks,59.58,3,51,Example
+96,Gradient Descent,83.1,1,25,Doubt clarification
+96,Gradient Descent,77.3,1,12,Revision
+97,CNNs,70.59,1,38,Explanation
+97,Optimization Algorithms,62.58,1,13,Example
+97,RNNs,87.23,1,39,Explanation
+97,Gradient Descent,65.71,1,53,Doubt clarification
+97,Gradient Descent,73.53,1,31,Doubt clarification
+97,Backpropagation,71.75,1,12,Example
+97,Neural Networks,57.02,1,30,Explanation
+97,Gradient Descent,33.39,2,36,Revision
+97,Backpropagation,67.53,1,10,Revision
+98,RNNs,38.25,3,39,Doubt clarification
+98,Linear Regression,69.95,1,48,Revision
+98,RNNs,58.27,4,7,Doubt clarification
+98,Neural Networks,79.95,1,12,Revision
+98,Linear Regression,49.54,2,54,Revision
+98,Backpropagation,68.42,1,60,Revision
+98,Optimization Algorithms,46.32,1,33,Revision
+98,Gradient Descent,74.52,1,43,Revision
+98,Backpropagation,72.8,1,52,Doubt clarification
+98,Gradient Descent,65.26,1,11,Example
+98,Gradient Descent,73.05,1,29,Example
+98,Backpropagation,81.35,1,16,Doubt clarification
+98,CNNs,42.37,1,23,Explanation
+98,CNNs,52.75,4,14,Example
+98,CNNs,64.4,1,45,Revision
+99,RNNs,47.09,1,53,Revision
+99,Optimization Algorithms,51.81,4,32,Example
+99,CNNs,74.92,1,27,Doubt clarification
+99,RNNs,85.45,1,32,Explanation
+99,Gradient Descent,45.73,1,26,Example
+99,CNNs,66.39,1,24,Example
+99,Gradient Descent,74.21,1,35,Doubt clarification
+99,Gradient Descent,97.99,1,51,Explanation
+99,Gradient Descent,61.17,1,50,Revision
+99,Neural Networks,100.0,1,11,Explanation
+99,Optimization Algorithms,90.19,1,36,Revision
+100,CNNs,76.09,1,5,Example
+100,Neural Networks,66.27,1,33,Example
+100,CNNs,65.74,1,54,Revision
+100,RNNs,69.38,1,49,Doubt clarification
+100,RNNs,67.22,1,52,Explanation
+100,RNNs,96.54,1,16,Example
+100,RNNs,68.97,1,11,Explanation
+100,CNNs,79.23,1,36,Doubt clarification
+100,Neural Networks,83.74,1,60,Revision
+100,Optimization Algorithms,75.32,1,30,Revision
+100,Neural Networks,51.62,4,34,Explanation
+100,Optimization Algorithms,59.87,4,29,Example
+100,Optimization Algorithms,98.76,1,18,Example
+100,Linear Regression,61.26,1,48,Example
+100,Gradient Descent,86.26,1,39,Revision
+100,Optimization Algorithms,72.83,1,59,Doubt clarification
+100,Optimization Algorithms,79.39,1,27,Doubt clarification
+100,Optimization Algorithms,86.04,1,55,Revision
+100,Optimization Algorithms,41.92,3,45,Explanation
