@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Teaching Assistant - Presentation</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        .slide {
+            display: none;
+            width: 80%;
+            height: 80vh;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        .slide.active {
+            display: flex;
+        }
+        h1 { font-size: 3em; margin-bottom: 20px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+        h2 { font-size: 2em; margin-bottom: 30px; color: #f0f0f0; }
+        ul { text-align: left; font-size: 1.5em; line-height: 1.6; }
+        .controls {
+            position: absolute;
+            bottom: 20px;
+            display: flex;
+            gap: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            color: white;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+        button:hover { background: rgba(255, 255, 255, 0.4); }
+        
+        .code-block {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            text-align: left;
+            font-size: 1rem;
+            border: 1px solid #444;
+            max-width: 80%;
+            overflow-x: auto;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Slide 1: Title -->
+    <div class="slide active" id="slide1">
+        <h1>AI-Powered Teaching Assistant</h1>
+        <h2>Problem Statement 1 | AU Campus Recruitment 2026</h2>
+        <p style="font-size: 1.5em;">By: Karthik Lagudu</p>
+    </div>
+
+    <!-- Slide 2: Features -->
+    <div class="slide" id="slide2">
+        <h1>Core Capabilities</h1>
+        <ul>
+            <li>✨ <strong>Student Query Understanding</strong> (NLP + LLM)</li>
+            <li>🚀 <strong>Adaptive Learning Path</strong> (Personalization Logic)</li>
+            <li>🧠 Powered by <strong>Llama-3.3-70b (Groq API)</strong></li>
+        </ul>
+    </div>
+
+    <!-- Slide 3: Architecture -->
+    <div class="slide" id="slide3">
+        <h1>System Architecture</h1>
+        <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
+            <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px;">
+                <h3>Frontend / CLI</h3>
+                <p>main.py</p>
+            </div>
+            <div style="font-size: 2em;">➡️</div>
+            <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px;">
+                <h3>Logic Engine</h3>
+                <p>src/query_engine.py<br>src/adaptive_engine.py</p>
+            </div>
+            <div style="font-size: 2em;">➡️</div>
+            <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px;">
+                <h3>LLM Layer</h3>
+                <p>Groq Cloud API</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Slide 4: Sample Output 1 -->
+    <div class="slide" id="slide4">
+        <h1>Understanding Queries</h1>
+        <p>Input: <em>"I don't understand backpropagation."</em></p>
+        <div class="code-block">
+{
+  "intent": "Explanation",
+  "topic": "Backpropagation",
+  "difficulty_level": "Intermediate"
+}
+        </div>
+    </div>
+
+    <!-- Slide 5: Sample Output 2 -->
+    <div class="slide" id="slide5">
+        <h1>Personalized Recommendations</h1>
+        <p>Input: Score: 45 | Attempts: 3 | Topic: Backpropagation</p>
+        <div class="code-block">
+{
+  "next_topic": "Backpropagation",
+  "action": "Revision",
+  "difficulty_adjustment": "Decrease"
+}
+        </div>
+    </div>
+
+    <!-- Slide 6: Conclusion -->
+    <div class="slide" id="slide6">
+      <h1>Conclusion</h1>
+      <ul>
+        <li>✅ Modular & Scalable Architecture</li>
+        <li>✅ Effective Use of LLMs for Logic</li>
+        <li>✅ Synthetic Data Generation Included</li>
+        <li>✅ Fully Documented</li>
+      </ul>
+      <h2 style="margin-top: 40px;">Thank You!</h2>
+    </div>
+
+    <div class="controls">
+        <button onclick="prevSlide()">❮ Previous</button>
+        <button onclick="nextSlide()">Next ❯</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+
+        function showSlide(index) {
+            slides.forEach((slide, i) => {
+                slide.classList.remove('active');
+                if (i === index) slide.classList.add('active');
+            });
+        }
+
+        function nextSlide() {
+            if (currentSlide < slides.length - 1) {
+                currentSlide++;
+                showSlide(currentSlide);
+            }
+        }
+
+        function prevSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                showSlide(currentSlide);
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
+            if (e.key === 'ArrowLeft') prevSlide();
+        });
+    </script>
+</body>
+</html>
